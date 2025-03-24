@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d73e0a7-39d4-4c21-8398-9911165078a6" name="Changes" comment="Error correction">
-      <change afterPath="$PROJECT_DIR$/BookStore/src/main/java/com/BookStore/BookStore/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookStore/src/main/java/com/BookStore/BookStore/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookStore/src/main/resources/static/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookStore/src/main/resources/templates/Home.html" afterDir="false" />
+    <list default="true" id="8d73e0a7-39d4-4c21-8398-9911165078a6" name="Changes" comment="restarts project files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookStore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookStore/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookStore/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BookStore/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/University/codes/Spring boot/BookStore",
+    "last_opened_file_path": "D:/University/codes/Spring boot/BookStore/backend",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
@@ -94,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736567626215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="restarts project files">
+      <option name="closed" value="true" />
+      <created>1742580264038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742580264038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Error correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Error correction" />
+    <MESSAGE value="restarts project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="restarts project files" />
   </component>
 </project>
